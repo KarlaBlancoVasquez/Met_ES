@@ -26,4 +26,4 @@ del valor de alfa y Pvalue. Elaborabos dos ejemplos.
 # Tarea
 
 Elaborar un ejemplo y dos hipótesis, determinar un valor de Pvalue y escoger
-la hipótesis más acertada.
+la hipótesis más acertado.
