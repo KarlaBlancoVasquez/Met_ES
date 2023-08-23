@@ -27,3 +27,17 @@ del valor de alfa y Pvalue. Elaborabos dos ejemplos.
 
 Elaborar un ejemplo y dos hipótesis, determinar un valor de Pvalue y escoger
 la hipótesis más acertado.
+
+----------------------------------------------
+# Clase 4: 21/08/2023
+
+El profesor nos dio una tabla con datos y la importamos a RStudio, calculamos
+la media, mediana y rango.
+
+Realizamos un gráfico de boxplot con la desviación estandar y varianza.
+
+----------------------------------------------
+# Clase 5: 22/08/2023
+
+Seguimos trabajando con los datos del día anterior, calculamos mu, p-value y
+determinamos qué Hipótesis era la rechazada.
