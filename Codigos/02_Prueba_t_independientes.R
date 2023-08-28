@@ -39,3 +39,22 @@ Descriptor <- vivero %>%
     var = var(IE)
   )
 
+Descriptor
+# Grafica -----------------------------------------------------------------
+
+boxplot(vivero$IE ~ vivero$Tratamiento,
+        xlab = "Tratamiento",
+        ylab = "Índice IE",
+        main = "Vivero",
+        col = "pink")
+
+t.test(vivero$IE ~ vivero$Tratamiento, var.equal = T)
+
+        
+        
+        
+        
+        
+        
+        
+        
