@@ -42,7 +42,7 @@ Seguimos trabajando con los datos del día anterior, calculamos mu, p-value y
 determinamos qué Hipótesis era la rechazada.
 
 ----------------------------------------------
-# clase 6: 28/08/2023
+# Clase 6: 28/08/2023
 
 Analizamos una tabla de datos, muestra independiente y determinamos si tenian
 diferencias significativas, calculamos las medidas de tendencia central y de
