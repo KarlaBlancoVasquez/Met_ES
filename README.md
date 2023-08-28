@@ -1,9 +1,8 @@
 # Met_ES
+# Clase 1: 07/08/2023
 Repositorio del curso Métodos estadísticos para el semestre agosto-diciembre 2023
 
 Hoy es la clase número uno, empezamos creando nuestro repositorio
-
-Clase 1: 07/08/2023
 
 ---------------------------------------------
 # Calse 2: 08/08/2023
@@ -41,3 +40,12 @@ Realizamos un gráfico de boxplot con la desviación estandar y varianza.
 
 Seguimos trabajando con los datos del día anterior, calculamos mu, p-value y
 determinamos qué Hipótesis era la rechazada.
+
+----------------------------------------------
+# clase 6: 28/08/2023
+
+Analizamos una tabla de datos, muestra independiente y determinamos si tenian
+diferencias significativas, calculamos las medidas de tendencia central y de
+dispersión.
+
+
