@@ -48,4 +48,17 @@ Analizamos una tabla de datos, muestra independiente y determinamos si tenían
 diferencias significativas, calculamos las medidas de tendencia central y de
 dispersión.
 
+----------------------------------------------
+# Clase 7: 29/08/2023
+
+# Objetivo
+
+Que los estudiantes entiendan el concepto de hipótesis y plateen un problema
+concreto y una variable a estudiar.
+
+
+
+
+
+
 
