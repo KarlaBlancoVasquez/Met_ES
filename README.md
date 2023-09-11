@@ -53,12 +53,23 @@ dispersión.
 
 # Objetivo
 
-Que los estudiantes entiendan el concepto de hipótesis y plateen un problema
-concreto y una variable a estudiar.
+Plantear un ejemplo específico y concreto con una variable a estudiar para
+entender mejor el concepto de hipótesis nula y alternativa.
 
+----------------------------------------------
+# Clase 8: 04/09/2023
 
+No hubo clase porque tuvimos salida a campo en Hidrología.
 
+----------------------------------------------
+# Clase 9: 05/09/2023
 
+# Objetivo
+
+Realizar un ejercicio en donde se compare el diámetro promedio de árboles con
+dos tratamientos diferentes y determinar si hay diferencias significativas.
+
+# Clase 10: 11/09/2023
 
 
 
