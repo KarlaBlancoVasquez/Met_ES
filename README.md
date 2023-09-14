@@ -4,7 +4,7 @@ Repositorio del curso Métodos estadísticos para el semestre agosto-diciembre 2
 
 Hoy es la clase número uno, empezamos creando nuestro repositorio
 
----------------------------------------------
+----------------------------------------------
 # Calse 2: 08/08/2023
 # Actividad 2 Configurar Git y Github, crear proyecto
 
@@ -71,5 +71,9 @@ dos tratamientos diferentes y determinar si hay diferencias significativas.
 
 # Clase 10: 11/09/2023
 
+No tuvimos clase.
 
+----------------------------------------------
+# Clase 11: 12/09/2023
 
+No hubo clase porque tuvimos salida a campo en UTIPNM.
