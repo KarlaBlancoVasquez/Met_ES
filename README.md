@@ -77,3 +77,17 @@ No tuvimos clase.
 # Clase 11: 12/09/2023
 
 No hubo clase porque tuvimos salida a campo en UTIPNM.
+
+----------------------------------------------
+# Clase 12: 18/09/2023
+
+No tuvimos clase.
+
+----------------------------------------------
+# Clase 13: 19/09/2023
+
+No tuvimos clase.
+
+
+
+
