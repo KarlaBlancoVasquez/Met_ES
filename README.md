@@ -88,6 +88,13 @@ No tuvimos clase.
 
 No tuvimos clase.
 
+----------------------------------------------
+# Clase 14: 25/09/2023
 
+Realizamos un ejemplo de correlación lineal, si era una asociación negativa o
+positiva y si la correlación era altamente significativa.
 
+# Clase 15: 26/09/2023
 
+Realizamos un ejemplo de correlación para determinar si existía una correlación
+lineal entre las variables X and Y.
