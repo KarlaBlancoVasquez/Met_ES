@@ -98,3 +98,11 @@ positiva y si la correlación era altamente significativa.
 
 Realizamos un ejemplo de correlación para determinar si existía una correlación
 lineal entre las variables X and Y.
+
+----------------------------------------------
+# Clase 16: 02/10/2023
+
+Realizamos un pequeño examen acerca de la correlación lineal y la hipótesis que
+le corresponde. Sirvió de repaso.
+
+
