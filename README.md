@@ -105,4 +105,8 @@ lineal entre las variables X and Y.
 Realizamos un pequeño examen acerca de la correlación lineal y la hipótesis que
 le corresponde. Sirvió de repaso.
 
+----------------------------------------------
+# Clase 17: 03/10/2023
+
+No tuvimos clase.
 
