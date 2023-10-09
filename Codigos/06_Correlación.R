@@ -25,7 +25,7 @@ cor.test(erupciones$eruptions, erupciones$waiting)
 
 # Gráfica -----------------------------------------------------------------
 
-plot(erupciones$eruptions, erupciones$waiting,
+plot(erupciones$waiting, erupciones$eruptions,
      xlab = "Erupciones",
      ylab = "Duración",
      pch = 15,
