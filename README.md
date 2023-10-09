@@ -110,3 +110,8 @@ le corresponde. Sirvió de repaso.
 
 No tuvimos clase.
 
+# Clase 18: 09/10/2023
+
+Realizamos un ejercicio de regresión lineal, calculamos yprima
+
+
