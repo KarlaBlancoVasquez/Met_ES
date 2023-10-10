@@ -112,6 +112,10 @@ No tuvimos clase.
 
 # Clase 18: 09/10/2023
 
-Realizamos un ejercicio de regresión lineal, calculamos yprima
+Realizamos un ejercicio de regresión lineal, calculamos yprima.
 
+----------------------------------------------
+# Clase 19: 10/10/2023
 
+Realizamos un ejercicio de normalidad y varianzas homogéneas.
+Determinamos si había diferencias significativas.
