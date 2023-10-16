@@ -119,3 +119,10 @@ Realizamos un ejercicio de regresión lineal, calculamos yprima.
 
 Realizamos un ejercicio de normalidad y varianzas homogéneas.
 Determinamos si había diferencias significativas.
+
+----------------------------------------------
+# Clase 20: 16/10/2023
+
+Definimos un exprimento sencillo para determinar variables a medir y establecer
+si se va a realizar una prueba t o análisis de varianza.
+
