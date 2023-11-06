@@ -126,3 +126,38 @@ Determinamos si había diferencias significativas.
 Definimos un exprimento sencillo para determinar variables a medir y establecer
 si se va a realizar una prueba t o análisis de varianza.
 
+----------------------------------------------
+# Clase 21: 17/10/2023
+
+No tuvimos clase.
+
+----------------------------------------------
+# Clase 22: 23/10/2023
+
+No tuvimos clase.
+
+----------------------------------------------
+# Clase 23: 24/10/2023
+
+No tuvimos clase.
+
+----------------------------------------------
+# Clase 24: 30/10/2023
+
+No tuvimos clase.
+
+----------------------------------------------
+# Clase 25:31/10/2023
+
+No tuvimos clase.
+
+----------------------------------------------
+# Clase 26: 06/11/2023
+
+
+
+
+
+
+
+
