@@ -1,12 +1,15 @@
 # Met_ES
+
+Repositorio del curso Métodos estadísticos para el semestre agosto-diciembre 2023.
+
+----------------------------------------------
 # Clase 1: 07/08/2023
-Repositorio del curso Métodos estadísticos para el semestre agosto-diciembre 2023
 
 Hoy es la clase número uno, empezamos creando nuestro repositorio
 
 ----------------------------------------------
 # Calse 2: 08/08/2023
-# Actividad 2 Configurar Git y Github, crear proyecto
+# Actividad 2: Configurar Git y Github, crear proyecto
 
 ## Objetivo
 
@@ -20,12 +23,12 @@ Hoy es la clase número uno, empezamos creando nuestro repositorio
 # Clase 3: 15/08/2023
 
 El profesor nos explicó qué era una hipótesis y los tipos que existen, además
-del valor de alfa y Pvalue. Elaborabos dos ejemplos.
+del valor de alfa y Pvalue. Elaboramos dos ejemplos.
 
 # Tarea
 
 Elaborar un ejemplo y dos hipótesis, determinar un valor de Pvalue y escoger
-la hipótesis más acertado.
+la hipótesis más acertada.
 
 ----------------------------------------------
 # Clase 4: 21/08/2023
@@ -33,13 +36,13 @@ la hipótesis más acertado.
 El profesor nos dio una tabla con datos y la importamos a RStudio, calculamos
 la media, mediana y rango.
 
-Realizamos un gráfico de boxplot con la desviación estandar y varianza.
+Realizamos un gráfico de boxplot con la desviación estándar y varianza.
 
 ----------------------------------------------
 # Clase 5: 22/08/2023
 
 Seguimos trabajando con los datos del día anterior, calculamos mu, p-value y
-determinamos qué Hipótesis era la rechazada.
+determinamos qué hipótesis era la rechazada y cuál la aceptada.
 
 ----------------------------------------------
 # Clase 6: 28/08/2023
@@ -96,7 +99,7 @@ positiva y si la correlación era altamente significativa.
 
 # Clase 15: 26/09/2023
 
-Realizamos un ejemplo de correlación para determinar si existía una correlación
+Realizamos un ejemplo de correlación para determinar si existe correlación
 lineal entre las variables X and Y.
 
 ----------------------------------------------
@@ -154,10 +157,31 @@ No tuvimos clase.
 ----------------------------------------------
 # Clase 26: 06/11/2023
 
+No tuvimos clase.
 
+----------------------------------------------
+# Clase 27: 07/11/2023
 
+No tuvimos clase.
 
+----------------------------------------------
+# Clase 28: 13/11/2023
 
+No tuvimos clase.
 
+----------------------------------------------
+# Clase 29: 14/11/2023
+
+No tuvimos clase.
+
+-----------------------------------------------
+# Clase 30: 20/11/2023
+
+No tuvimos clase porque fue asueto.
+
+-----------------------------------------------
+# Clase 31: 21/11/2023
+
+Última semana de clases y no tuvimos clase.
 
 
