@@ -5,13 +5,16 @@ Repositorio del curso Métodos estadísticos para el semestre agosto-diciembre 2
 ----------------------------------------------
 # Clase 1: 07/08/2023
 
-Hoy es la clase número uno, empezamos creando nuestro repositorio
+## Actividades:
+
++ Crear una cuenta en Github.
+
++ Crear un repositorio para la materia Met_ES.
 
 ----------------------------------------------
 # Calse 2: 08/08/2023
-# Actividad 2: Configurar Git y Github, crear proyecto
 
-## Objetivo
+## Actividades:
 
 + Configurar mi nombre de usuario y correo electrónico en la cuenta de Git.
 
@@ -22,56 +25,82 @@ Hoy es la clase número uno, empezamos creando nuestro repositorio
 ----------------------------------------------
 # Clase 3: 15/08/2023
 
-El profesor nos explicó qué era una hipótesis y los tipos que existen, además
-del valor de alfa y Pvalue. Elaboramos dos ejemplos.
+El tema de la clase fue acerca de los tipos de hipótesis (alternativa y nula) y
+sobre el valor de alfa y del p-value y cómo éste influía en la hipótesis aceptada.
 
-# Tarea
+## Actividades:
 
-Elaborar un ejemplo y dos hipótesis, determinar un valor de Pvalue y escoger
-la hipótesis más acertada.
++ Elaborar dos ejemplos de hipótesis alternativa y nula de a cuerdo con lo
+explicado por el profesor.
+
+### Tarea
+
+Elaborar un ejemplo con las dos hipótesis explicadas en clase, determinar 
+un valor de Pvalue y escoger la hipótesis más acertada.
 
 ----------------------------------------------
 # Clase 4: 21/08/2023
 
-El profesor nos dio una tabla con datos y la importamos a RStudio, calculamos
-la media, mediana y rango.
+## Actividades
 
-Realizamos un gráfico de boxplot con la desviación estándar y varianza.
++ Descargar una tabla de datos del blog personal del profesor.
+
++ Importar los datos a RStudio.
+
++ Calcular la media, la mediana y el rango
+
++ Realizar un gráfico de boxplot con la desviación estándar y la varianza.
 
 ----------------------------------------------
 # Clase 5: 22/08/2023
 
-Seguimos trabajando con los datos del día anterior, calculamos mu, p-value y
-determinamos qué hipótesis era la rechazada y cuál la aceptada.
+## Actividades
+
++ Continuar trabajando con los datos de la clase anterior
+
++ Calcular mu, el p-value
+
++ Con los resultados anteriores, determinar la hipótesis rechazada y aceptada.
 
 ----------------------------------------------
 # Clase 6: 28/08/2023
 
-Analizamos una tabla de datos, muestra independiente y determinamos si tenían
-diferencias significativas, calculamos las medidas de tendencia central y de
-dispersión.
+## Actividades
+
++ Analizar una tabla de datos descargada del blog personal de profesor.
+
++ Determinar si la muestra independiente tiene diferencias significaticas.
+
++ Calcular las medidas de tendencia central y de dispersión.
 
 ----------------------------------------------
 # Clase 7: 29/08/2023
 
-# Objetivo
+## Actividad
 
-Plantear un ejemplo específico y concreto con una variable a estudiar para
-entender mejor el concepto de hipótesis nula y alternativa.
++ Plantear un ejemplo específico y concreto, relacionado con las Ciencias forestales,
+que contenga una sola variable para analizar.
+
+### Objetivo
+
++ Comprender mejor los conceptos de hipótesis nula he hipótesis alternativa.
 
 ----------------------------------------------
 # Clase 8: 04/09/2023
 
-No hubo clase porque tuvimos salida a campo en Hidrología.
+No tuvimos clase porque salimos a campo en Hidrología.
 
 ----------------------------------------------
 # Clase 9: 05/09/2023
 
-# Objetivo
+## Actividades
 
-Realizar un ejercicio en donde se compare el diámetro promedio de árboles con
-dos tratamientos diferentes y determinar si hay diferencias significativas.
++ Realizar un ejercicio de comparación entre el diámetro promedio de árboles con
+dos tratamientos diferentes.
 
++ Determinar si hay diferencias significativas entre los tratamientos.
+
+----------------------------------------------
 # Clase 10: 11/09/2023
 
 No tuvimos clase.
@@ -79,7 +108,7 @@ No tuvimos clase.
 ----------------------------------------------
 # Clase 11: 12/09/2023
 
-No hubo clase porque tuvimos salida a campo en UTIPNM.
+No tuvimos clase porque salimos a campo en UTIPNM.
 
 ----------------------------------------------
 # Clase 12: 18/09/2023
@@ -94,40 +123,65 @@ No tuvimos clase.
 ----------------------------------------------
 # Clase 14: 25/09/2023
 
-Realizamos un ejemplo de correlación lineal, si era una asociación negativa o
-positiva y si la correlación era altamente significativa.
+## Actividades
 
++ Realizar un ejercicio de correlación lineal.
+
++ Determinar si es una asociación negativa o positiva.
+
++ Establecer si la correlación es altamente significativa.
+
+----------------------------------------------
 # Clase 15: 26/09/2023
 
-Realizamos un ejemplo de correlación para determinar si existe correlación
-lineal entre las variables X and Y.
+## Actividades
+
++ Realizar un ejercicio de correlación.
+
++ Determinar si existe correlación lineal entre las variables X and Y.
 
 ----------------------------------------------
 # Clase 16: 02/10/2023
 
-Realizamos un pequeño examen acerca de la correlación lineal y la hipótesis que
-le corresponde. Sirvió de repaso.
+## Actividades
+
++ Contestar una pequeña evaluación acerca de la correlación lineal
+
++ Identificar la hipótesis correspondiente.
 
 ----------------------------------------------
 # Clase 17: 03/10/2023
 
 No tuvimos clase.
 
+----------------------------------------------
 # Clase 18: 09/10/2023
 
-Realizamos un ejercicio de regresión lineal, calculamos yprima.
+## Actividades
+
++ Realizar un ejercicio de regresión lineal.
+
++ Calcular yprima.
 
 ----------------------------------------------
 # Clase 19: 10/10/2023
 
-Realizamos un ejercicio de normalidad y varianzas homogéneas.
-Determinamos si había diferencias significativas.
+## Actividades
+
++ Realizar un ejercicio de normalidad y varianzar homogéneas.
+
++ Determinar si existen diferencias significativas entre las variables.
 
 ----------------------------------------------
 # Clase 20: 16/10/2023
 
-Definimos un exprimento sencillo para determinar variables a medir y establecer
-si se va a realizar una prueba t o análisis de varianza.
+## Actividades
+
++ Plantear un experimento sencillo
+
++ Establecer las variables a medir.
+
++ Definir si se va a realizar una prueba t o un análisis de varianza.
 
 ----------------------------------------------
 # Clase 21: 17/10/2023
@@ -182,6 +236,6 @@ No tuvimos clase porque fue asueto.
 -----------------------------------------------
 # Clase 31: 21/11/2023
 
-Última semana de clases y no tuvimos clase.
+No tuvimos la última clase del semestre.
 
 
