@@ -5,7 +5,7 @@ Repositorio del curso Métodos estadísticos para el semestre agosto-diciembre 2
 ----------------------------------------------
 # Clase 1: 07/08/2023
 
-## Actividades:
+## Actividades
 
 + Crear una cuenta en Github.
 
@@ -14,11 +14,11 @@ Repositorio del curso Métodos estadísticos para el semestre agosto-diciembre 2
 ----------------------------------------------
 # Calse 2: 08/08/2023
 
-## Actividades:
+## Actividades
 
-+ Configurar mi nombre de usuario y correo electrónico en la cuenta de Git.
++ Configurar mi nombre de usuario y correo electrónico en la cuenta de Github.
 
-+ Crear proyecto clonando el repositorio de Github.
++ Crear un proyecto clonando el repositorio de Github.
 
 + Realizar la primera sincronización del proyecto y la nube (Github).
 
@@ -26,9 +26,9 @@ Repositorio del curso Métodos estadísticos para el semestre agosto-diciembre 2
 # Clase 3: 15/08/2023
 
 El tema de la clase fue acerca de los tipos de hipótesis (alternativa y nula) y
-sobre el valor de alfa y del p-value y cómo éste influía en la hipótesis aceptada.
+sobre el valor de alfa y de p-value y cómo éste influía en la hipótesis aceptada.
 
-## Actividades:
+## Actividad
 
 + Elaborar dos ejemplos de hipótesis alternativa y nula de a cuerdo con lo
 explicado por el profesor.
@@ -36,7 +36,7 @@ explicado por el profesor.
 ### Tarea
 
 Elaborar un ejemplo con las dos hipótesis explicadas en clase, determinar 
-un valor de Pvalue y escoger la hipótesis más acertada.
+un valor de p-value y escoger la hipótesis más acertada.
 
 ----------------------------------------------
 # Clase 4: 21/08/2023
@@ -47,7 +47,7 @@ un valor de Pvalue y escoger la hipótesis más acertada.
 
 + Importar los datos a RStudio.
 
-+ Calcular la media, la mediana y el rango
++ Calcular la media, la mediana y el rango.
 
 + Realizar un gráfico de boxplot con la desviación estándar y la varianza.
 
@@ -56,9 +56,9 @@ un valor de Pvalue y escoger la hipótesis más acertada.
 
 ## Actividades
 
-+ Continuar trabajando con los datos de la clase anterior
++ Continuar trabajando con los datos de la clase anterior.
 
-+ Calcular mu, el p-value
++ Calcular mu y el p-value.
 
 + Con los resultados anteriores, determinar la hipótesis rechazada y aceptada.
 
@@ -76,14 +76,14 @@ un valor de Pvalue y escoger la hipótesis más acertada.
 ----------------------------------------------
 # Clase 7: 29/08/2023
 
+## Objetivo
+
++ Comprender mejor los conceptos de hipótesis nula he hipótesis alternativa.
+
 ## Actividad
 
 + Plantear un ejemplo específico y concreto, relacionado con las Ciencias forestales,
 que contenga una sola variable para analizar.
-
-### Objetivo
-
-+ Comprender mejor los conceptos de hipótesis nula he hipótesis alternativa.
 
 ----------------------------------------------
 # Clase 8: 04/09/2023
@@ -145,7 +145,7 @@ No tuvimos clase.
 
 ## Actividades
 
-+ Contestar una pequeña evaluación acerca de la correlación lineal
++ Contestar una pequeña evaluación acerca de la correlación lineal.
 
 + Identificar la hipótesis correspondiente.
 
@@ -177,7 +177,7 @@ No tuvimos clase.
 
 ## Actividades
 
-+ Plantear un experimento sencillo
++ Plantear un experimento sencillo.
 
 + Establecer las variables a medir.
 
