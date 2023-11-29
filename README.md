@@ -238,4 +238,7 @@ No tuvimos clase porque fue asueto.
 
 No tuvimos la última clase del semestre.
 
+-----------------------------------------------
+# Gráfica de contribución al repositorio
+![image](https://github.com/KarlaBlancoVasquez/Met_ES/assets/141651755/f5d712b7-99e3-4a83-9ba7-39a5fe1d4bd1)
 
